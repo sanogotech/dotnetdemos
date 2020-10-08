@@ -4,5 +4,6 @@ Mono is an "open source development platform based on the .NET framework that al
 
 ## Compile
 To compile this application simply go to the command line and type :
-
+```
 mcs HelloWorld.cs
+```
