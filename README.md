@@ -7,8 +7,13 @@ https://www.mono-project.com/download/stable/
 
 PATH=C:\Program Files\Mono\bin
 
-## Compile
+## Compile - create HelloWorld.exe
 To compile this application simply go to the command line and type :
 ```
 mcs HelloWorld.cs
+```
+
+## Execute HelloWorld.exe
+```
+mono HelloWorld.exe
 ```
